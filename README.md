@@ -1,4 +1,5 @@
 # SipHash (.NET 8)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![nuget](https://img.shields.io/nuget/v/SipHash.svg)](https://www.nuget.org/packages/SipHash/)
 
 Compact, high-performance SipHash-2-4 implementation and a small DI-ready service for .NET 8.
 
