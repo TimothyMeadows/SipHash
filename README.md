@@ -1,6 +1,8 @@
 # SipHash (.NET 8)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![nuget](https://img.shields.io/nuget/v/SipHash.svg)](https://www.nuget.org/packages/SipHash/)
 
+SipHash is a keyed, cryptographically-secure pseudorandom function (PRF) optimized for short inputs. It was designed by Jean‑Philippe Aumasson and Daniel J. Bernstein in 2012 to defend against hash-flooding (denial-of-service) attacks in hash tables.
+
 Compact, high-performance SipHash-2-4 implementation and a small DI-ready service for .NET 8.
 
 - Language: C# 12
