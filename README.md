@@ -21,7 +21,11 @@ The implementation is optimized for speed (span-based APIs, `Unsafe.ReadUnaligne
 
 ## Installation
 
-Add the project to your solution or reference the assembly/NuGet package that contains the SipHash implementation.
+Install from NuGet
+
+```bash
+dotnet add package SipHash
+```
 
 ## Quick usage
 
